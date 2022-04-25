@@ -1,10 +1,3 @@
-/*Send to :
-schadi.faour@powercoders.org
-ammarelseed@icloud.com
-hossameldin.baioumy@powercoders.org
-*/
-
-
 //Exercise 1
 function calc() {
     let n1 = document.getElementById("firstN").value
